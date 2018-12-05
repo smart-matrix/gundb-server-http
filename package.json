@@ -8,7 +8,7 @@
     "start": "ts-node ./src/server.ts",
     "build": "tsc -p ."
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "fs-extra": "^7.0.1",
     "gun": "^0.9.99999",
